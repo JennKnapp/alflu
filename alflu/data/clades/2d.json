@@ -1,0 +1,24 @@
+{
+    "label": "2d",
+    "description": "2d defining mutations",
+    "sources": [],
+    "tags": [
+        "2d",
+        "2d"
+    ],
+    "sites": [
+        "G249A",
+        "C533A",
+        "T660C",
+        "T1292A",
+        "C2188T",
+        "C1976A",
+        "G1875A",
+        "A3175G",
+        "G2256A",
+        "C2430T",
+        "A2535T",
+        "G2784A",
+        "A1956G"
+    ]
+}

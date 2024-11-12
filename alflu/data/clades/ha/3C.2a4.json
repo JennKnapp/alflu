@@ -1,0 +1,18 @@
+{
+    "label": "3C.2a4",
+    "description": "3C.2a4 defining mutations",
+    "sources": [],
+    "tags": [
+        "3C.2a4"
+    ],
+    "sites": [
+        "G1574A",
+        "A495C",
+        "G222A",
+        "T287C",
+        "T578A",
+        "A656T",
+        "T640C",
+        "A157G"
+    ]
+}
